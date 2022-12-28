@@ -5,6 +5,9 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 .caixa-principal {
     height: 100vh;
