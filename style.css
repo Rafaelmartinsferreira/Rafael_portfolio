@@ -5,6 +5,10 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+  
 
 .caixa-principal {
     height: 100vh;
@@ -14,6 +18,7 @@
     background-position: center;
     background-color: #191919;
 }
+
 nav {
     display: flex;
     align-items: center;
