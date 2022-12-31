@@ -89,6 +89,8 @@ section {
 section img {
     height: 400px;
     margin-right: 35px;
+    border: solid 2px white;
+    border-radius: 50%;
 }
 
 section div h2 {
